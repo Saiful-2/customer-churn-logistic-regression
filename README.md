@@ -154,19 +154,39 @@ This model helps companies to:
 * Scikit-learn
 
 ---
-
 ## 📂 Project Structure
 
 ```
 customer-churn-logistic-regression/
 │
-├── data/              # Dataset info
-├── images/            # Visualizations
-├── customer_churn_logistic_regression.ipynb
-├── README.md
+├── data/                          # Dataset information
+│   └── README.md
+│
+├── images/                        # Visualizations and plots
+│   ├── confusion_matrix.png
+│   ├── contract_type_vs_churn.png
+│   ├── customer_churn_distribution.png
+│   ├── dependents_vs_churn.png
+│   ├── distribution_of_monthly_charges.png
+│   ├── distribution_of_tenure.png
+│   ├── distribution_of_total_charges.png
+│   ├── gender_vs_churn.png
+│   ├── internet_service_vs_churn.png
+│   ├── monthly_charges_by_churn.png
+│   ├── partner_vs_churn.png
+│   ├── payment_method_vs_churn.png
+│   ├── roc_curve.png
+│   ├── senior_citizen_vs_churn.png
+│   ├── tenure_by_churn.png
+│   ├── total_charges_by_churn.png
+│   ├── top_10_negative_features.png
+│   └── top_10_positive_features.png
+│
+├── customer_churn_logistic_regression.ipynb   # Main notebook
+├── README.md                                 # Project documentation
+├── LICENSE
+└── .gitignore
 ```
-
----
 
 ## 🔮 Future Improvements
 
