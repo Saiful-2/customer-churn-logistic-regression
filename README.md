@@ -89,6 +89,32 @@ This project builds a **machine learning model using Logistic Regression** to pr
 * F1 Score: 0.61 
 
 ---
+## 📊 Visual Insights
+
+### 📌 Customer Churn Distribution
+
+![Churn Distribution](images/customer_churn_distribution.png)
+
+### 📌 Contract Type vs Churn
+
+![Contract vs Churn](images/contract_type_vs_churn.png)
+
+### 📌 Payment Method vs Churn
+
+![Payment Method vs Churn](images/payment_method_vs_churn.png)
+
+### 📌 Monthly Charges vs Churn
+
+![Monthly Charges](images/monthly_charges_by_churn.png)
+
+### 📌 Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 📌 ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
 
 ## 📈 Key Insights
 
